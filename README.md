@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Desarrollo de Aplicaciones
+# ✨ Desarrollo de Aplicaciones ✨
 
 ### Mi espacio para aprender, crear y compartir proyectos de clase
 
@@ -23,16 +23,6 @@ Cada actividad tiene su propia carpeta con la descripción, los archivos y las i
 | Proyecto | Descripción |
 | --- | --- |
 | [📍 Funciones nativas — 12 de noviembre de 2026](<Proyecto Funciones Nativas 12-nov-2026/>) | Aplicación Flutter que registra evidencia con una fotografía de la cámara y la ubicación GPS, incluyendo latitud, longitud y hora. Su README explica las funciones, cómo ejecutarla y cómo está organizado el código. |
-
-## 🧭 ¿Qué incluye este trabajo?
-
-Dentro del proyecto de funciones nativas encontrarás más que la pantalla principal:
-
-- **`flutter_application_6/lib/`** — código Dart de la aplicación: `main.dart` y las carpetas `screens/` (pantallas), `services/` (cámara y ubicación) y `widgets/` (componentes reutilizables).
-- **`flutter_application_6/test/`** — espacio para pruebas de la aplicación.
-- **Carpetas de plataforma** — `android/`, `ios/`, `linux/`, `macos/`, `web/` y `windows/`, con la configuración necesaria para compilar o ejecutar en cada plataforma compatible.
-- **Archivos de Flutter** — `pubspec.yaml` y `pubspec.lock` describen las dependencias; `analysis_options.yaml` contiene opciones de análisis y `.metadata` registra información del proyecto.
-- **Documentación** — el README general presenta el portafolio y cada proyecto puede tener su propio README con detalles de uso y organización.
 
 ## 🌱 En progreso
 
